@@ -6,7 +6,18 @@ A dynamic social media platform that enables users to share thoughts, connect wi
 
 - **Project Name**: ShareSpace
 - **Category**: Social Media Platform
-- **Tech Stack**: Next.js, Tailwind CSS, PostgreSQL, Prisma, Clerk, Railway, Cloudinary, Vercel
+- **Tech Stack**: 
+  ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+  ![Clerk](https://img.shields.io/badge/Clerk-3B82F6?logo=clerk&logoColor=white) 
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
+  ![Neon PostgreSQL](https://img.shields.io/badge/Neon_PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) 
+  ![Cloudinary](https://img.shields.io/badge/Image_Upload-3448C5?logo=cloudinary&logoColor=white) 
+  ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000?logo=react&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
 - **Live Demo**: [ShareSpace](https://share-spcae.vercel.app/)
 
 ## Features
@@ -78,6 +89,14 @@ Contributions are welcome! Follow these steps:
 - PostgreSQL
 - Prisma ORM
 - Cloudinary Account (for image uploads)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+Special thanks to open-source contributors and developers whose tools made this project possible.
 
 ---
 
