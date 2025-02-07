@@ -90,14 +90,4 @@ Contributions are welcome! Follow these steps:
 - Prisma ORM
 - Cloudinary Account (for image uploads)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-Special thanks to open-source contributors and developers whose tools made this project possible.
-
----
-
 Happy Coding! 🚀
